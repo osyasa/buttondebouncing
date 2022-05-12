@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Drivers/EXT_DRIVERS/counter.c:6:6:init_counter_interrupt	8	static
+../Drivers/EXT_DRIVERS/counter.c:21:6:enable_counter	4	static
+../Drivers/EXT_DRIVERS/counter.c:25:6:disable_counter	4	static
+../Drivers/EXT_DRIVERS/counter.c:29:6:debounce_time_in_millis	16	static
+../Drivers/EXT_DRIVERS/counter.c:33:6:TIM6_IRQHandler	16	static

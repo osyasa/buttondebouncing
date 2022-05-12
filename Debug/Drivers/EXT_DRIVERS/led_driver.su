@@ -1,0 +1,4 @@
+../Drivers/EXT_DRIVERS/led_driver.c:3:6:init_led_green	4	static
+../Drivers/EXT_DRIVERS/led_driver.c:18:6:init_led_blue	4	static
+../Drivers/EXT_DRIVERS/led_driver.c:33:6:led_green_write	16	static,ignoring_inline_asm
+../Drivers/EXT_DRIVERS/led_driver.c:45:6:led_blue_write	16	static,ignoring_inline_asm
